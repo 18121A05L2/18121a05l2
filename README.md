@@ -19,9 +19,9 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Blockchain with Foundry** - 📫 How to reach me
-  **Lucky2892000@gmail.com** - 📄 Know about my experiences
-  [https://yellow-dannie-31.tiiny.site/](https://yellow-dannie-31.tiiny.site/)
+- 🌱 I’m currently learning **Blockchain with Foundry**
+- 📫 How to reach me **Lucky2892000@gmail.com**
+- 📄 Know about my experiences [https://yellow-dannie-31.tiiny.site/](https://yellow-dannie-31.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
